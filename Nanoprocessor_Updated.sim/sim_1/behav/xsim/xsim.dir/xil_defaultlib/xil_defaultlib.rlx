@@ -1,0 +1,25 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Sem 2/Computer Organization and Digital Design/Lab_3/Lab_3.srcs/sources_1/new/FA.vhd,1713093154,vhdl,,,,fa,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Lab_3/Lab_3.srcs/sources_1/new/HA.vhd,1713092738,vhdl,,,,ha,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Lab_4/Lab_4.srcs/sources_1/new/Decoder_2_to_4.vhd,1713109190,vhdl,,,,decoder_2_to_4,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Lab_4/Lab_4.srcs/sources_1/new/Decoder_3_to_8.vhd,1713109577,vhdl,,,,decoder_3_to_8,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Lab_5/Lab_5.srcs/sources_1/new/Slow_Clk.vhd,1714042192,vhdl,,,,slow_clk,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Adder_3_bit.vhd,1713255941,vhdl,,,,adder_3_bit,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Comparator.vhd,1713896395,vhdl,,,,comparator,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Ins_Decoder.vhd,1714026167,vhdl,,,,ins_decoder,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/MUX_2x3.vhd,1713259491,vhdl,,,,mux_2x3,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/MUX_2x4.vhd,1713259491,vhdl,,,,mux_2x4,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/MUX_8x4.vhd,1713260062,vhdl,,,,mux_8x4,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Nanoprocessor.vhd,1714028067,vhdl,,,,nanoprocessor,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Program_Counter.vhd,1714037068,vhdl,,,,program_counter,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/ROM.vhd,1714059628,vhdl,,,,rom,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Reg_Bank.vhd,1713292614,vhdl,,,,reg_bank,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Reg_without_FF.vhd,1714024169,vhdl,,,,reg_without_ff,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sim_1/new/TB_Nanoprocessor.vhd,1713950788,vhdl,D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sim_1/new/TB_Nanoprocessor_U.vhd,,,tb_nanoprocessor,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sim_1/new/TB_Nanoprocessor_U.vhd,1713953692,vhdl,,,,,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sources_1/new/Add_Sub.vhd,1714028067,vhdl,,,,add_sub,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sources_1/new/Jumper.vhd,1714025534,vhdl,,,,jumper,,,,,,,,
+D:/Sem 2/Computer Organization and Digital Design/project_7/project_7.srcs/sources_1/new/LUT_16_7.vhd,1710779480,vhdl,,,,lut_16_7,,,,,,,,

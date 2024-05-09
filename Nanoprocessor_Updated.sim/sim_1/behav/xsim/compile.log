@@ -1,0 +1,16 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sources_1/new/Add_Sub.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Add_sub
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Ins_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Ins_Decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.srcs/sources_1/new/Jumper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Jumper
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Nanoprocessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Nanoprocessor
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Program_Counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Program_Counter
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/ROM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ROM
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor/Nanoprocessor.srcs/sources_1/new/Reg_without_FF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_without_FF
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sem 2/Computer Organization and Digital Design/Lab_5/Lab_5.srcs/sources_1/new/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Slow_Clk
