@@ -1,0 +1,85 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Thu May  2 11:48:03 2024
+| Host         : MSIAkindu running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file Nanoprocessor_control_sets_placed.rpt
+| Design       : Nanoprocessor
+| Device       : xc7a35t
+------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    16 |
+| Unused register locations in slices containing registers |    44 |
++----------------------------------------------------------+-------+
+
+
+2. Histogram
+------------
+
++--------+--------------+
+| Fanout | Control Sets |
++--------+--------------+
+|      2 |            4 |
+|      4 |            2 |
+|      6 |            3 |
+|      8 |            4 |
+|     12 |            1 |
+|    16+ |            2 |
++--------+--------------+
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              28 |            7 |
+| No           | No                    | Yes                    |               8 |            1 |
+| No           | Yes                   | No                     |              96 |           14 |
+| Yes          | No                    | No                     |               0 |            0 |
+| Yes          | No                    | Yes                    |              24 |            3 |
+| Yes          | Yes                   | No                     |               0 |            0 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++--------------------------------------------+--------------------------------------------------------+------------------------------+------------------+----------------+
+|                Clock Signal                |                      Enable Signal                     |       Set/Reset Signal       | Slice Load Count | Bel Load Count |
++--------------------------------------------+--------------------------------------------------------+------------------------------+------------------+----------------+
+|  Ins_Decoder_0/Com_EN_reg/G0               |                                                        |                              |                1 |              2 |
+|  Ins_Decoder_0/Load_Sel_inferred__0/i__n_0 |                                                        | ROM_0/AR[0]                  |                1 |              2 |
+|  ROM_0/Q_reg[2]                            |                                                        | Ins_Decoder_0/__9/i__n_0     |                1 |              2 |
+|  ROM_0/Q_reg[3]_0                          |                                                        | ROM_0/Q_reg[3]               |                1 |              2 |
+|  Ins_Decoder_0/__3/i__n_0                  |                                                        |                              |                1 |              4 |
+|  ROM_0/Q_reg[3]_1[0]                       |                                                        |                              |                1 |              4 |
+|  Ins_Decoder_0/__11/i__n_0                 |                                                        |                              |                1 |              6 |
+|  Slow_Clk_0/CLK                            |                                                        |                              |                1 |              6 |
+|  Clk_IBUF_BUFG                             |                                                        |                              |                2 |              6 |
+|  Slow_Clk_0/CLK                            |                                                        | Reset_IBUF                   |                1 |              8 |
+|  Slow_Clk_0/CLK                            | Ins_Decoder_0/E[0]                                     | Reset_IBUF                   |                1 |              8 |
+|  Slow_Clk_0/CLK                            | Reg_bank0/Decoder_3_to_8_0/Decoder_2_to_4_1/Dec_out[0] | Reset_IBUF                   |                1 |              8 |
+|  Slow_Clk_0/CLK                            | Reg_bank0/Decoder_3_to_8_0/Decoder_2_to_4_1/Dec_out[1] | Reset_IBUF                   |                1 |              8 |
+|  ROM_0/Q_reg[3]_2[0]                       |                                                        | ROM_0/AR[0]                  |                2 |             12 |
+|  Slow_Clk_0/CLK                            |                                                        | PC_0/SR[0]                   |                1 |             16 |
+|  Clk_IBUF_BUFG                             |                                                        | Slow_Clk_0/count[31]_i_1_n_0 |                8 |             62 |
++--------------------------------------------+--------------------------------------------------------+------------------------------+------------------+----------------+
+
+
