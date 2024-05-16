@@ -1,0 +1,231 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Apr 19 00:47:23 2024
+# Process ID: 20708
+# Current directory: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3036 D:\Sem 2\Computer Organization and Digital Design\Nanoprocessor_Updated\Nanoprocessor_Updated.xpr
+# Log file: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/vivado.log
+# Journal file: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Ins_Decoder_0}} 
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+update_compile_order -fileset sources_1
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Ins_Decoder_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+update_compile_order -fileset sources_1
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Jumper_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Ins_Decoder_0}} 
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Jumper_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Ins_Decoder_0}} 
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Jumper_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+reset_run synth_1
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+remove_forces { {/TB_Nanoprocessor/UUT/Jumper_0/Jmp_Flag} {/TB_Nanoprocessor/UUT/Jumper_0/Jmp_on} {/TB_Nanoprocessor/UUT/Jumper_0/Jmp_check} }
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/ROM_0}} 
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/PC_0}} 
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Ins_Decoder_0}} 
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Reg_bank0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/Jumper_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+current_wave_config {TB_Nanoprocessor_behav.wcfg}
+add_wave {{/TB_Nanoprocessor/UUT/PC_0}} 
+save_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+launch_runs synth_1 -jobs 6
+wait_on_run synth_1
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim
+launch_simulation
+open_wave_config {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/TB_Nanoprocessor_behav.wcfg}
+source TB_Nanoprocessor.tcl
+close_sim

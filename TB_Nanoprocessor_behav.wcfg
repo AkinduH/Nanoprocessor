@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Nanoprocessor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Nanoprocessor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="10160000001fs"></ZoomEndTime>
+      <Cursor1Time time="10000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="101"></NameColumnWidth>
+      <ValueColumnWidth column_width="97"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/TB_Nanoprocessor/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/LED_out" type="array">
+      <obj_property name="ElementShortName">LED_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">LED_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/S_7seg" type="array">
+      <obj_property name="ElementShortName">S_7seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">S_7seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/Zero_flag" type="logic">
+      <obj_property name="ElementShortName">Zero_flag</obj_property>
+      <obj_property name="ObjectShortName">Zero_flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/Low" type="logic">
+      <obj_property name="ElementShortName">Low</obj_property>
+      <obj_property name="ObjectShortName">Low</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/High" type="logic">
+      <obj_property name="ElementShortName">High</obj_property>
+      <obj_property name="ObjectShortName">High</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nanoprocessor/Equal" type="logic">
+      <obj_property name="ElementShortName">Equal</obj_property>
+      <obj_property name="ObjectShortName">Equal</obj_property>
+   </wvobject>
+</wave_config>

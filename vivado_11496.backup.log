@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Apr 25 10:59:33 2024
+# Process ID: 11496
+# Current directory: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16312 D:\Sem 2\Computer Organization and Digital Design\Nanoprocessor_Updated\Nanoprocessor_Updated.xpr
+# Log file: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/vivado.log
+# Journal file: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 909.117 ; gain = 153.027
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 6
+[Thu Apr 25 11:19:38 2024] Launched synth_1...
+Run output will be captured here: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 6
+[Thu Apr 25 11:20:38 2024] Launched impl_1...
+Run output will be captured here: D:/Sem 2/Computer Organization and Digital Design/Nanoprocessor_Updated/Nanoprocessor_Updated.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 25 11:21:44 2024...
