@@ -13,6 +13,7 @@ Instructions are hardcoded into the ROM and loaded at runtime. The sample progra
 We ran the simulation using the following instructions stored in the ROM:
 
 - ----------------- Operations -----------------------------
+
 "0011110001010", -- MOVI R7, 10
 
 "0010100000010", -- MOVI R2, 2
